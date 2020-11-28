@@ -1,0 +1,6 @@
+{
+    "adminAccessToken": "",
+    "realHomeserverUrl": "https://t2bot.io",
+    "pantalaimonUrl": "http://localhost:8008",
+    "userId": "@example:t2bot.io"
+}

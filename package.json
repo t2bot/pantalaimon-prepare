@@ -1,0 +1,12 @@
+{
+  "name": "pantalaimon-prepare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:t2bot/pantalaimon-prepare.git",
+  "author": "t2bot.io",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "matrix-bot-sdk": "^0.5.8",
+    "password-generator": "^2.3.2"
+  }
+}
